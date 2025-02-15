@@ -1,0 +1,30 @@
+# Archivos de configuración sensibles
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+launchSettings.json
+
+# Archivos de compilación y binarios
+bin/
+obj/
+project.assets.json
+project.nuget.cache
+
+# Migraciones generadas (si no quieres subirlas)
+Migrations/
+
+# Archivos específicos de entornos de desarrollo
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archivos y configuraciones de usuario de Visual Studio
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.cache
+*.sw?
+
+# Carpetas de depuración
+bin/Debug/
+bin/Release/
